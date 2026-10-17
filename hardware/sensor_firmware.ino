@@ -26,7 +26,7 @@ const char* WIFI_PASSWORD = "YOUR_WIFI_PASSWORD";   // EDIT: Your local Wi-Fi Pa
 
 // SERVER_URL must match backend PC's local IP address (e.g. 192.168.1.50:8000)
 // Same IP as frontend/services/api.js BASE_URL
-const char* SERVER_URL    = "http://192.168.1.X:8000/iot/reading"; // EDIT BEFORE UPLOADING
+const char* SERVER_URL    = "https://dentonicai.onrender.com/iot/reading"; // EDIT BEFORE UPLOADING
 
 const char* DEVICE_ID     = "field_1";              // Default device identifier
 

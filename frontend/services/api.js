@@ -5,7 +5,7 @@
 // or use an ngrok URL.
 // Example: const BASE_URL = 'http://192.168.1.100:8000';
 
-export const BASE_URL = 'http://10.230.32.65:8000';
+export const BASE_URL = 'https://dentonicai.onrender.com';
 const API_URL = `${BASE_URL}/analyze`;
 const TIMEOUT_MS = 90000; // 90 seconds
 

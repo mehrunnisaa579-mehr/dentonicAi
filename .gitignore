@@ -39,26 +39,3 @@ Thumbs.db
 
 # IoT persisted readings (real sensor data, never commit)
 backend/data/
-!backend/data/.gitkeep
-!backend/static/audio/.gitkeep
-
-# Build / dist artefacts
-dist/
-build/
-
-# Log files
-*.log
-logs/
-backend/logs/
-
-# Virtual environments
-.venv/
-venv/
-env/
-
-# IDE
-.idea/
-.vscode/
-
-# pytest
-.pytest_cache/
